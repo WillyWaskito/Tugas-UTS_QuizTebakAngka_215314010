@@ -4,8 +4,7 @@
 **Nim    :** 215314010
 
 **Nama project:** `Tugas-UTS_QuizTebakAngka_215314010`  
-**Nama aplikasi:** Quiz Tebak Angka  
-**Application ID:** `com.example.quiztebakangka`  
+**Nama aplikasi:** Quiz Tebak Angka
 **Bahasa:** Kotlin  
 **UI:** Android XML  
 **Minimum Android:** Android 6.0 (API 23)  
