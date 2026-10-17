@@ -27,7 +27,13 @@
 
 
 ## Menguji di Samsung Galaxy A06
-- Pastikan perangkat menggunakan Android yang didukung (Android 6.0/API 23 atau lebih baru).
-- Aktifkan Developer options dan USB debugging bila ingin menjalankan langsung dari Android Studio.
-- Hubungkan kabel USB, setujui dialog izin debugging di HP, lalu pilih perangkat di Android Studio dan tekan **Run**.
-- Uji: mulai game, input kosong, angka -1/101, tebakan terlalu kecil/besar, tebakan benar, pengurangan skor, skor 0, restart, dan kembali ke menu.
+File APK debug berada di:
+
+Tugas-UTS_QuizTebakAngka_215314010\app\build\outputs\apk\debug\app-debug.apk
+
+Cara memasang di HP:
+
+Salin app-debug.apk ke HP (kabel USB, Google Drive, atau Bluetooth).
+Di HP, buka File Saya (My Files), lalu ketuk app-debug.apk.
+Jika muncul peringatan, ketuk Pengaturan dan aktifkan Izinkan dari sumber ini untuk aplikasi yang dipakai membuka file.
+Ketuk Instal, lalu Buka.
