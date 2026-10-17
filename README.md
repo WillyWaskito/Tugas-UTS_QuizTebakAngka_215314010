@@ -29,7 +29,7 @@
 ## Menguji di Samsung Galaxy A06
 File APK debug berada di:
 
-Tugas-UTS_QuizTebakAngka_215314010\app\build\outputs\apk\debug\app-debug.apk
+Tugas-UTS_QuizTebakAngka_215314010\app-debug.apk
 
 Cara memasang di HP:
 
