@@ -27,21 +27,6 @@
 - Semua teks berada di `strings.xml`; ikon launcher vektor.
 
 
-## Membuka project
-1. Ekstrak ZIP ke folder yang mudah ditemukan.
-2. Buka Android Studio.
-3. Pilih **Open**, lalu pilih folder `Tugas-UTS_QuizTebakAngka_215314010` (folder yang berisi `settings.gradle.kts`).
-4. Gunakan JDK 17 melalui **Settings > Build, Execution, Deployment > Build Tools > Gradle > Gradle JDK**.
-5. Tunggu Gradle Sync selesai. Pastikan koneksi internet tersedia untuk mengunduh Android Gradle Plugin dan dependency build yang diperlukan.
-6. Jalankan di emulator atau perangkat Android.
-
-## Membuat APK untuk HP
-1. Di Android Studio pilih **Build > Build Bundle(s) / APK(s) > Build APK(s)**.
-2. Setelah build berhasil, tekan **Locate** pada notifikasi.
-3. APK debug umumnya berada di `app/build/outputs/apk/debug/app-debug.apk`.
-4. Pindahkan APK ke HP (USB, Drive, atau metode berbagi file), lalu buka file tersebut untuk memasang.
-5. Jika diminta, izinkan instalasi aplikasi dari sumber tersebut pada pengaturan Android.
-
 ## Menguji di Samsung Galaxy A06
 - Pastikan perangkat menggunakan Android yang didukung (Android 6.0/API 23 atau lebih baru).
 - Aktifkan Developer options dan USB debugging bila ingin menjalankan langsung dari Android Studio.
